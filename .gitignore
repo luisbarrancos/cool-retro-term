@@ -34,6 +34,11 @@ Makefile*
 # Others
 
 *.xcf
+*.swp
+*.tmp
+*.bak
+*~
+app/moc_predefs.h
 
 # Ubuntu SDk
 *.excludes
